@@ -5,11 +5,11 @@ Home: https://github.com/Lykos153/python-drivelib
 
 Package license: GPL-3.0-only
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/drivelib-feedstock/blob/master/LICENSE.txt)
 
 Summary: Easy access to the most common Google Drive API calls
 
-
+Development: https://github.com/Lykos153/python-drivelib
 
 Current build status
 ====================
